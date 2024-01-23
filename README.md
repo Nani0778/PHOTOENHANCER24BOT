@@ -11,7 +11,7 @@
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aluval/PHOTOENHANCER24BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nani0778/PHOTOENHANCER24BOT)
 
 ###  **𝑅𝐸𝑄𝑈𝐼𝑅𝐸𝐷 𝑉𝐴𝑅𝐼𝐴𝐵𝐿𝐸𝑆** 
 
