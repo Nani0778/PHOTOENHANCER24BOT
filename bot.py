@@ -32,7 +32,7 @@ app = Client(
 @app.on_message(filters.command("start"))
 async def start(client, message):
     await message.reply_text(
-        f"Hello {message.from_user.first_name}❤️ Welcome! Send me an image and choose an action",reply_to_message_id = message.id ,  reply_markup=InlineKeyboardMarkup(
+        f"Hello {message.from_user.first_name}❤️ Welcome! HERE U CAN ENHANCE UR IMAGE REMOVE BACKGROUND FROM UR IMAGE , ETC..Send me an image and choose an action",reply_to_message_id = message.id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton("𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢" ,url=f"https://t.me/movieplaza77") ],
