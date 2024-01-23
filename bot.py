@@ -178,7 +178,7 @@ def change_color(image_path, new_color=(255, 0, 0)):
     return image
 
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24.  
-ALL CREDIT GOES TO @Sunrises_24 I JUST DEVELOPED BOT
+#ALL CREDIT GOES TO @Sunrises_24 I JUST DEVELOPED BOT
 # Function to Telegraph 
 @app.on_message(filters.command("telegraph"))
 async def telegraph_upload(client, message):
